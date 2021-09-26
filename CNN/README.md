@@ -1,14 +1,13 @@
 # CNN 용어정리
 
-
-## CNN모델
+# CNN(Convolution Neural Network)
 
  - Feature Extraction + Classification
    (이미지의 특징을 추출하는 부분 + 이미지 클래스를 분류하는 부분)
 
  - 이미지 값의 위치정보까지 학습시킬 수 있음
 
-### Feature Extraction
+## Feature Extraction
 
  - Convolution Layer와 Pooling Layer들의 연속
  - Convolution Layer : (필수) 필터를 적용하고 활성화 함수를 가지는 레이어
