@@ -1,6 +1,6 @@
 # CNN 용어정리
 
-# CNN(Convolution Neural Network)
+## CNN(Convolution Neural Network)
 
  - Feature Extraction + Classification
    (이미지의 특징을 추출하는 부분 + 이미지 클래스를 분류하는 부분)
