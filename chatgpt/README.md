@@ -40,3 +40,6 @@ ChatCompletion(
             prompt_tokens=169, 
             total_tokens=202))
 ```
+
+### Price
+![image](https://github.com/kyull-it/AI-STUDY/assets/67450333/fda720ec-41b5-4cc3-99be-4e871aea7eb9)
